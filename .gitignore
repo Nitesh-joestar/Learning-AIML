@@ -1,2 +1,4 @@
 # Ignore saved model files
 *.pkl
+
+*.tar.gz
