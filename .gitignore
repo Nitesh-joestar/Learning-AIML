@@ -2,3 +2,6 @@
 *.pkl
 
 *.tar.gz
+
+*.gz
+
