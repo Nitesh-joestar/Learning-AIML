@@ -5,3 +5,14 @@
 
 *.gz
 
+# Ignore MNIST dataset files
+*.idx1-ubyte
+*.idx3-ubyte
+
+*.tgz
+
+# Ignore MNIST ubyte dataset files
+train-images-idx3-ubyte
+train-labels-idx1-ubyte
+t10k-images-idx3-ubyte
+t10k-labels-idx1-ubyte
