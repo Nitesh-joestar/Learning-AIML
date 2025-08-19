@@ -18,3 +18,7 @@ t10k-images-idx3-ubyte
 t10k-labels-idx1-ubyte
 
 *.jpg.chip.jpg
+
+PizzaSteakSushi/
+
+Food101_images/
