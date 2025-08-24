@@ -22,3 +22,6 @@ t10k-labels-idx1-ubyte
 PizzaSteakSushi/
 
 Food101_images/
+
+runs/
+log/
